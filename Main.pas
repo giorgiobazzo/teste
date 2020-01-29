@@ -26,7 +26,7 @@ implementation
 
 procedure TForm6.Button1Click(Sender: TObject);
 begin
-  ShowMessage('Teste git versao 2   sdsdsds')
+  ShowMessage('Teste git versao 2')
 end;
 
 end.
